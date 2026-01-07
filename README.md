@@ -1,10 +1,10 @@
-#Simulation d'acquisition du langage
-##Equipe
+# Simulation d'acquisition du langage
+## Equipe
 - Eloi
 - Cyprien
 - Yanis
 - Maxime
 - Brieuc
-##Contenu
+## Contenu
 Vous trouverez ici le code de notre PSC sur l'acquisition du langage
 
